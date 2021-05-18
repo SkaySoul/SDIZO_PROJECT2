@@ -385,60 +385,6 @@ QHeap.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\SDIZO_PROJECT2.dir\build.make CMakeFiles/SDIZO_PROJECT2.dir/QHeap.cpp.s
 .PHONY : QHeap.cpp.s
 
-Source.obj: Source.cpp.obj
-
-.PHONY : Source.obj
-
-# target to build an object file
-Source.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\SDIZO_PROJECT2.dir\build.make CMakeFiles/SDIZO_PROJECT2.dir/Source.cpp.obj
-.PHONY : Source.cpp.obj
-
-Source.i: Source.cpp.i
-
-.PHONY : Source.i
-
-# target to preprocess a source file
-Source.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\SDIZO_PROJECT2.dir\build.make CMakeFiles/SDIZO_PROJECT2.dir/Source.cpp.i
-.PHONY : Source.cpp.i
-
-Source.s: Source.cpp.s
-
-.PHONY : Source.s
-
-# target to generate assembly for a file
-Source.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\SDIZO_PROJECT2.dir\build.make CMakeFiles/SDIZO_PROJECT2.dir/Source.cpp.s
-.PHONY : Source.cpp.s
-
-Source1.obj: Source1.cpp.obj
-
-.PHONY : Source1.obj
-
-# target to build an object file
-Source1.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\SDIZO_PROJECT2.dir\build.make CMakeFiles/SDIZO_PROJECT2.dir/Source1.cpp.obj
-.PHONY : Source1.cpp.obj
-
-Source1.i: Source1.cpp.i
-
-.PHONY : Source1.i
-
-# target to preprocess a source file
-Source1.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\SDIZO_PROJECT2.dir\build.make CMakeFiles/SDIZO_PROJECT2.dir/Source1.cpp.i
-.PHONY : Source1.cpp.i
-
-Source1.s: Source1.cpp.s
-
-.PHONY : Source1.s
-
-# target to generate assembly for a file
-Source1.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\SDIZO_PROJECT2.dir\build.make CMakeFiles/SDIZO_PROJECT2.dir/Source1.cpp.s
-.PHONY : Source1.cpp.s
-
 Test.obj: Test.cpp.obj
 
 .PHONY : Test.obj
@@ -529,12 +475,6 @@ help:
 	@echo ... QHeap.obj
 	@echo ... QHeap.i
 	@echo ... QHeap.s
-	@echo ... Source.obj
-	@echo ... Source.i
-	@echo ... Source.s
-	@echo ... Source1.obj
-	@echo ... Source1.i
-	@echo ... Source1.s
 	@echo ... Test.obj
 	@echo ... Test.i
 	@echo ... Test.s

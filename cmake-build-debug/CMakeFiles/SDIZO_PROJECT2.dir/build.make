@@ -206,35 +206,9 @@ CMakeFiles/SDIZO_PROJECT2.dir/QHeap.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SDIZO_PROJECT2.dir/QHeap.cpp.s"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\hellf\CLionProjects\SDIZO_PROJECT2\QHeap.cpp -o CMakeFiles\SDIZO_PROJECT2.dir\QHeap.cpp.s
 
-CMakeFiles/SDIZO_PROJECT2.dir/Source.cpp.obj: CMakeFiles/SDIZO_PROJECT2.dir/flags.make
-CMakeFiles/SDIZO_PROJECT2.dir/Source.cpp.obj: ../Source.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\hellf\CLionProjects\SDIZO_PROJECT2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/SDIZO_PROJECT2.dir/Source.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SDIZO_PROJECT2.dir\Source.cpp.obj -c C:\Users\hellf\CLionProjects\SDIZO_PROJECT2\Source.cpp
-
-CMakeFiles/SDIZO_PROJECT2.dir/Source.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SDIZO_PROJECT2.dir/Source.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\hellf\CLionProjects\SDIZO_PROJECT2\Source.cpp > CMakeFiles\SDIZO_PROJECT2.dir\Source.cpp.i
-
-CMakeFiles/SDIZO_PROJECT2.dir/Source.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SDIZO_PROJECT2.dir/Source.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\hellf\CLionProjects\SDIZO_PROJECT2\Source.cpp -o CMakeFiles\SDIZO_PROJECT2.dir\Source.cpp.s
-
-CMakeFiles/SDIZO_PROJECT2.dir/Source1.cpp.obj: CMakeFiles/SDIZO_PROJECT2.dir/flags.make
-CMakeFiles/SDIZO_PROJECT2.dir/Source1.cpp.obj: ../Source1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\hellf\CLionProjects\SDIZO_PROJECT2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/SDIZO_PROJECT2.dir/Source1.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SDIZO_PROJECT2.dir\Source1.cpp.obj -c C:\Users\hellf\CLionProjects\SDIZO_PROJECT2\Source1.cpp
-
-CMakeFiles/SDIZO_PROJECT2.dir/Source1.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SDIZO_PROJECT2.dir/Source1.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\hellf\CLionProjects\SDIZO_PROJECT2\Source1.cpp > CMakeFiles\SDIZO_PROJECT2.dir\Source1.cpp.i
-
-CMakeFiles/SDIZO_PROJECT2.dir/Source1.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SDIZO_PROJECT2.dir/Source1.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\hellf\CLionProjects\SDIZO_PROJECT2\Source1.cpp -o CMakeFiles\SDIZO_PROJECT2.dir\Source1.cpp.s
-
 CMakeFiles/SDIZO_PROJECT2.dir/Test.cpp.obj: CMakeFiles/SDIZO_PROJECT2.dir/flags.make
 CMakeFiles/SDIZO_PROJECT2.dir/Test.cpp.obj: ../Test.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\hellf\CLionProjects\SDIZO_PROJECT2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/SDIZO_PROJECT2.dir/Test.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\hellf\CLionProjects\SDIZO_PROJECT2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/SDIZO_PROJECT2.dir/Test.cpp.obj"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\SDIZO_PROJECT2.dir\Test.cpp.obj -c C:\Users\hellf\CLionProjects\SDIZO_PROJECT2\Test.cpp
 
 CMakeFiles/SDIZO_PROJECT2.dir/Test.cpp.i: cmake_force
@@ -257,8 +231,6 @@ SDIZO_PROJECT2_OBJECTS = \
 "CMakeFiles/SDIZO_PROJECT2.dir/NodeSet.cpp.obj" \
 "CMakeFiles/SDIZO_PROJECT2.dir/NotACoherentGraphException.cpp.obj" \
 "CMakeFiles/SDIZO_PROJECT2.dir/QHeap.cpp.obj" \
-"CMakeFiles/SDIZO_PROJECT2.dir/Source.cpp.obj" \
-"CMakeFiles/SDIZO_PROJECT2.dir/Source1.cpp.obj" \
 "CMakeFiles/SDIZO_PROJECT2.dir/Test.cpp.obj"
 
 # External object files for target SDIZO_PROJECT2
@@ -274,14 +246,12 @@ SDIZO_PROJECT2.exe: CMakeFiles/SDIZO_PROJECT2.dir/MenuElement.cpp.obj
 SDIZO_PROJECT2.exe: CMakeFiles/SDIZO_PROJECT2.dir/NodeSet.cpp.obj
 SDIZO_PROJECT2.exe: CMakeFiles/SDIZO_PROJECT2.dir/NotACoherentGraphException.cpp.obj
 SDIZO_PROJECT2.exe: CMakeFiles/SDIZO_PROJECT2.dir/QHeap.cpp.obj
-SDIZO_PROJECT2.exe: CMakeFiles/SDIZO_PROJECT2.dir/Source.cpp.obj
-SDIZO_PROJECT2.exe: CMakeFiles/SDIZO_PROJECT2.dir/Source1.cpp.obj
 SDIZO_PROJECT2.exe: CMakeFiles/SDIZO_PROJECT2.dir/Test.cpp.obj
 SDIZO_PROJECT2.exe: CMakeFiles/SDIZO_PROJECT2.dir/build.make
 SDIZO_PROJECT2.exe: CMakeFiles/SDIZO_PROJECT2.dir/linklibs.rsp
 SDIZO_PROJECT2.exe: CMakeFiles/SDIZO_PROJECT2.dir/objects1.rsp
 SDIZO_PROJECT2.exe: CMakeFiles/SDIZO_PROJECT2.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\hellf\CLionProjects\SDIZO_PROJECT2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Linking CXX executable SDIZO_PROJECT2.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\hellf\CLionProjects\SDIZO_PROJECT2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Linking CXX executable SDIZO_PROJECT2.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\SDIZO_PROJECT2.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
